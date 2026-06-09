@@ -1,16 +1,20 @@
-## Hi there 👋
+Rajat Natani
 
-<!--
-**rajatnatani0123-max/rajatnatani0123-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building Helios Labs
 
-Here are some ideas to get you started:
+Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Helios Research Terminal
+• Aegis OS
+• Nexus Exchange
+
+Current Focus
+
+• Python
+• Quant Finance
+• AI Engineering
+• System Design
+
+Goal
+
+Build research-grade AI and financial systems.****
