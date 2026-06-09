@@ -17,4 +17,4 @@ Current Focus
 
 Goal
 
-Build research-grade AI and financial systems.****
+Build research-grade AI and financial systems.
